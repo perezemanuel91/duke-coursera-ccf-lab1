@@ -2,7 +2,13 @@ def add(x, y):
     return x + y
 
 
-a = 1
-b = 2
+def toyou(x):
+    return f"hi {x}"
 
-print(f"{a} + {b} = {add(a,b)}")
+
+def add2(x):
+    return x + 1
+
+
+def subtract(x):
+    return x - 1
